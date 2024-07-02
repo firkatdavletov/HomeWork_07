@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieChartView">
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="LineChartView">
+        <attr name="xMax" format="integer"/>
+        <attr name="xGridStep" format="integer"/>
+        <attr name="yMax" format="integer"/>
+        <attr name="yGridStep" format="integer"/>
+    </declare-styleable>
+</resources>
